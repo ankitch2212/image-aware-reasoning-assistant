@@ -1,0 +1,12 @@
+
+---
+
+# 📄 `requirements.txt`
+
+```txt
+opencv-python
+pytesseract
+pillow
+ultralytics
+numpy
+openai
