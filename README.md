@@ -1,1 +1,0 @@
-# image-aware-reasoning-assistant
