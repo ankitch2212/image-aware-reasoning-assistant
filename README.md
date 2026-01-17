@@ -97,4 +97,5 @@ If LLM quota is unavailable, a **rule-based fallback** is used to ensure the pip
 pip install -r requirements.txt
 
 2️⃣ Run pipeline
+
 python pipeline.py --image sample_images/image_test.jpg
