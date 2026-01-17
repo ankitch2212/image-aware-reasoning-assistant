@@ -90,6 +90,14 @@ The reasoning layer:
 
 If LLM quota is unavailable, a **rule-based fallback** is used to ensure the pipeline still works end-to-end.
 
+⚙️ How to Run (Local – VS Code)
+1️⃣ Install dependencies
+pip install -r requirements.txt
+
+2️⃣ Run pipeline
+
+python pipeline.py --image sample_images/image_test.jpg
+
 ---
 
 ## 📦 Example Output
@@ -106,11 +114,7 @@ If LLM quota is unavailable, a **rule-based fallback** is used to ensure the pip
   "confidence": 0.85
 }
 
-⚙️ How to Run (Local – VS Code)
-1️⃣ Install dependencies
-pip install -r requirements.txt
 
-2️⃣ Run pipeline
 
-python pipeline.py --image sample_images/image_test.jpg
+
 
